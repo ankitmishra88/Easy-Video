@@ -12,6 +12,11 @@
 
 ### Further Improvements that Can be done
 
+#### Most Important
+Youtube Data API returns results in paged format, assume if a channel contains 1000 videos, and in each request it returns 50 results, so you will have different next page token with each result, to fetch total 20 pages. Currently the plugin hasn't paging functionality available.
+
+### Other Improvements
+
  1. Currently when you import, we put the ChannelId only, This can be made more easy to use by adding some functionality and check, so it works with channel URL also(It can get the id from channel url also).
  2. UI of Single Video Page can be improved
  3. Make plugin translatable
