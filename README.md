@@ -3,7 +3,7 @@
 
 - Step 1 - Install and activate the plugin
 - Step 2 - You'll see two new admin menu EV Import and Videos, Go to EV Import>API Key
-- Step 3 - Get the API Key from Google Console for Youtube Data API V3, and paste it there
+- Step 3 - Get the API Key from Google Console for Youtube Data API V3, and paste it there ([Go to official documentation](https://developers.google.com/youtube/v3/getting-started))
 - Step 4 - Go to EV Import> Put the Channel ID there (If Channel URL is: https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA, Channel ID is UCq-Fj5jknLsUf-MWSy4_brA)
 
 - Step 5 - Click On Fetch > You will see, how many videos have been fetched
