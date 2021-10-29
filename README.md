@@ -13,7 +13,7 @@
 ### Further Improvements that Can be done
 
  1. Currently when you import, we put the ChannelId only, This can be made more easy to use by adding some functionality and check, so it works with channel URL also(It can get the id from channel url also).
- 2. UI of Single Video Page can be improve
+ 2. UI of Single Video Page can be improved
  3. Make plugin translatable
  4. Add some required actions/filters to make plugin extendible by some other developers to extend the functionality for their own purpose, without changing the plugin
 
